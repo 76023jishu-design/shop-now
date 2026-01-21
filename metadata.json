@@ -1,0 +1,5 @@
+{
+  "name": "Minimalist Shopping App",
+  "description": "A clean, functional shopping application with WhatsApp/SMS ordering, category management, and search features.",
+  "requestFramePermissions": []
+}
